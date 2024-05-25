@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Faizul Islam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&s">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrdICeWWTatRlOFOBoP35AUf6opqeco9Zd2rYBryGUiw&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizze&label=Profile%20views&color=0e75b6&style=flat" alt="faizze" /> </p>
 
