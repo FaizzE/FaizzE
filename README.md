@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN , Android , DSA , Problem Solving**
 
-- 📫 How to reach me **faizulislam3540@gmail.com**
+- 📫 How to reach me **theraat72@gmail.com**
 
 - ⚡ Fun fact **I Am Funny**
 
