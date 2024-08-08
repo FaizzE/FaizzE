@@ -3,7 +3,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://FaizzE.io)
 
 <h1 align="center">Hi 👋, I'm Faizul Islam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrdICeWWTatRlOFOBoP35AUf6opqeco9Zd2rYBryGUiw&s">
 
