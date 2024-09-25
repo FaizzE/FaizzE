@@ -12,6 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizzE&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FaizzE&label=Profile%20views&color=0e75b6&style=flat" alt="FaizzE" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FaizzE&label=Profile%20views&color=0e75b6&style=flat" alt="FaizzE"/> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
