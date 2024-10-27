@@ -11,25 +11,43 @@ I'm a pre-final year B.Tech CSE student passionate about software development, p
   - **Tailwind CSS**: Crafting beautiful designs with utility-first styling.
   - **JavaScript**: Implementing dynamic features and enhancing user interactivity.
   - **React**: Developing reusable components and managing application state effectively.
+  - **Redux**: Managing complex state in JavaScript applications.
 
 - **Backend Development**: 
   - **Node.js**: Creating scalable server-side applications.
   - **Express**: Simplifying server management and API development.
+  - **RESTful APIs**: Designing and implementing RESTful services for data exchange.
 
 - **Database Management**:
   - **MongoDB**: Utilizing NoSQL databases for flexible data storage and retrieval.
+  - **SQL**: Understanding relational databases and executing complex queries.
 
 ## 🧩 Problem-Solving Skills:
-I am committed to continuously enhancing my problem-solving abilities, particularly in Data Structures and Algorithms. I engage with challenges on platforms like LeetCode, GeeksforGeeks, and Codeforces, where I tackle complex problems that strengthen my analytical thinking and coding skills.
+I am committed to continuously enhancing my problem-solving abilities, particularly in Data Structures and Algorithms. I actively engage with coding challenges on platforms like LeetCode, GeeksforGeeks, and Codeforces, where I tackle complex problems that sharpen my analytical thinking and algorithmic skills. I focus on:
+
+- **Complexity Analysis**: Understanding time and space complexities to optimize solutions.
+- **Data Structures**: Mastering arrays, linked lists, stacks, queues, trees, and graphs to effectively manage and manipulate data.
+- **Algorithms**: Implementing sorting, searching, dynamic programming, and graph algorithms to solve diverse challenges.
+- **Competitive Programming**: Regularly participating in contests to enhance my speed and accuracy in solving problems under time constraints, primarily using C++.
 
 ## 📚 Academic Foundation:
 My coursework has provided me with a robust technical foundation in:
-- **Operating Systems**: Understanding process management and memory allocation.
-- **Object-Oriented Programming (OOP)**: Implementing design principles and patterns.
-- **Database Management Systems (DBMS)**: Gaining insights into data modeling and querying.
+- **Operating Systems**: Understanding process management, memory allocation, and system calls.
+- **Object-Oriented Programming (OOP)**: Implementing design principles, encapsulation, inheritance, and polymorphism.
+- **Database Management Systems (DBMS)**: Gaining insights into data modeling, normalization, and transaction management.
+- **Computer Networks**: Understanding network protocols, architectures, and security principles.
+- **Software Engineering**: Learning methodologies for software development, testing, and project management.
 
 ## 🌱 Passion for Learning:
-Driven by curiosity, I’m always exploring new technologies and frameworks to stay updated in this fast-paced industry. I enjoy experimenting with different programming languages and tools to expand my skill set and discover innovative solutions to real-world problems.
+Driven by curiosity, I’m always exploring new technologies and frameworks to stay updated in this fast-paced industry. I enjoy experimenting with different programming languages and tools, such as:
+
+- **C++**: Proficient in C++, enhancing my skills through competitive programming.
+- **Python**: For scripting and automation tasks.
+- **Java**: For building cross-platform applications.
+- **Docker**: For containerization and deployment of applications.
+- **Git**: For version control and collaboration on projects.
+
+I continuously seek innovative solutions to real-world problems and strive to enhance my skill set through hands-on projects.
 
 
 <br>
