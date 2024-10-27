@@ -50,10 +50,6 @@ Fueled by an insatiable curiosity, I am always on the lookout for new technologi
 
 I am dedicated to finding innovative solutions to real-world problems and continuously strive to elevate my skill set through hands-on projects and collaborations.
 
-## 🤝 Let’s Connect!
-I believe in the power of collaboration and the exchange of ideas. If you're interested in partnering on exciting projects or discussing the latest in technology, I would love to connect with you!
-
-
 
 <br>
 <h3 align="left">Let's Connect 🤝:</h3>
