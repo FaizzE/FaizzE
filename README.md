@@ -22,8 +22,6 @@ I'm a pre-final year B.Tech CSE student passionate about software development, p
   - **MongoDB**: Leveraging NoSQL databases for flexible, efficient data storage and retrieval.
   - **SQL**: Applying expertise in relational databases to execute complex queries with precision.
 
-- **Programming Languages**:
-  - **C++**: Proficient in C++, I thrive on tackling competitive programming challenges and implementing sophisticated data structures and algorithms.
 
 ## 🧩 Problem-Solving Skills:
 I am deeply committed to honing my problem-solving abilities, especially in the realms of Data Structures and Algorithms. Engaging with coding challenges on platforms like LeetCode, GeeksforGeeks, and Codeforces allows me to refine my analytical skills and tackle complex problems with confidence. My approach includes:
