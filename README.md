@@ -2,7 +2,7 @@
 
 ## 👋 Hello! I'm Faizul Islam
 
-I'm a pre-final year B.Tech CSE student passionate about frontend development. I thrive at the intersection of creativity and technology, leveraging my skills to build engaging and efficient web applications.
+I'm a Final year B.Tech CSE student passionate about frontend development. I thrive at the intersection of creativity and technology, leveraging my skills to build engaging and efficient web applications.
 
 ## 🌟 Technical Skills:
 
