@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Full Stack Developer | Next.js • React • TypeScript • Node.js • PostgreSQL</strong>
+  <strong>Full Stack Developer | Node.js • React • Next.js • TypeScript </strong>
 </p>
 
 <p align="center">
