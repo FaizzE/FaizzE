@@ -1,8 +1,28 @@
-# About Me: 
+<p align="center">
+  <strong>Full Stack Developer | Next.js • React • TypeScript • Node.js • PostgreSQL</strong>
+</p>
 
-## 👋 Hello! I'm Faizul Islam
+<p align="center">
+  Building production-ready web applications with scalable backend systems, AI integrations, and clean architecture.
+</p>
 
-I'm a Final year B.Tech CSE student passionate about frontend development. I thrive at the intersection of creativity and technology, leveraging my skills to build engaging and efficient web applications.
+
+## 🧑‍💻 About Me
+
+I'm a passionate full-stack developer and active competitive programmer focused on creating robust, scalable applications that solve real-world problems. My approach centers on clean code, structured database design, and building intelligent user experiences.
+
+```javascript
+const faizul = {
+  location: "Patna, India",
+  education: "B.Tech Computer Science and Engineering",
+  currentFocus: ["Full-Stack Development", "Backend Engineering", "Frontend Engineering", "System Design", "AI Integrations"],
+  achievements: ["LeetCode Knight (1868)", "1600+ Problems Solved"],
+  tech: ["Next.js", "React", "TypeScript", "Node.js", "PostgreSQL"],
+  philosophy: "Build real products. Learn by shipping.",
+  openTo: ["Full-Time Opportunities", "Internships", "Open Source Contributions"]
+};
+
+```
 
 ## 🌟 Technical Skills:
 
