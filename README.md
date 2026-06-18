@@ -26,15 +26,12 @@ const faizul = {
 
 ## 🌟 Technical Skills:
 
-- **Frontend Development**: 
-  - **HTML** & **CSS**: Crafting responsive, intuitive interfaces that engage users.
-  - **Tailwind CSS**: Utilizing utility-first styling to create visually stunning designs.
-  - **JavaScript**: Infusing interactivity and dynamic features into web applications.
-  - **React**: Building reusable, efficient components while expertly managing application state.
-  - **Redux**: Streamlining complex state management in JavaScript applications.
-
-- **Version Control**: 
-  - **Git**: Leveraging version control for collaborative projects and code management.
+**Core Technologies:**
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Zustand
+- **Backend:** Node.js, Express, RESTful APIs, Next.js Server Actions, WebSockets
+- **Database & Caching:** PostgreSQL, MongoDB, Redis, Prisma ORM
+- **DevOps & Cloud:** Docker, Git, CI/CD
+- **AI Integration:** Google Gemini API, OpenRouter AI
 
 ## 🧩 Problem-Solving Skills:
 I am deeply committed to honing my problem-solving abilities, especially in the realms of Data Structures and Algorithms. Engaging with coding challenges on platforms like LeetCode, GeeksforGeeks, and Codeforces allows me to refine my analytical skills and tackle complex problems with confidence. My approach includes:
