@@ -66,11 +66,11 @@ I am dedicated to finding innovative solutions to real-world problems and contin
 <br>
 <h3 align="left">Let's Connect 🤝:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/faizule/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizul--islam" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/faizule" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhruvishah97" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/faizulislam3540" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvishah05" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/_Shrink/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_Shrink" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/faizulisik58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="patvauplmxy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/faizule/" target="blank"><img align="center" src="https://raw.githubusercontent.com/FaizzE/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizul--islam" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/faizule" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="faizule" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/faizulislam3540" target="blank"><img align="center" src="https://raw.githubusercontent.com/faizulislam3540/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faizulislam3540" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/_Shrink/" target="blank"><img align="center" src="https://raw.githubusercontent.com/_Shrink/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_Shrink" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/faizulisik58" target="blank"><img align="center" src="https://raw.githubusercontent.com/faizulisik58/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="faizulisik58" height="30" width="40" /></a>
 </p>
 <br>
 
