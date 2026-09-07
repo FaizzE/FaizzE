@@ -1,25 +1,24 @@
 <p align="center">
-  <strong>Full Stack Developer | Node.js • React • Next.js • TypeScript </strong>
+  <strong>Full-Stack Engineer | Node.js • React • Next.js • TypeScript </strong>
 </p>
 
 <p align="center">
-  Building production-ready web applications with scalable backend systems, AI integrations, and clean architecture.
+  Building production-ready applications with scalable backend systems, microservices, and AI integrations.
 </p>
-
 
 ## 🧑‍💻 About Me
 
-I'm a passionate full-stack developer and active competitive programmer focused on creating robust, scalable applications that solve real-world problems. My approach centers on clean code, structured database design, and building intelligent user experiences.
+I'm a full-stack engineer and competitive programmer focused on creating robust, scalable applications that solve real-world problems. My approach centers on clean code, event-driven architectures, structured database design, and building intelligent user experiences.
 
 ```javascript
 const faizul = {
   location: "Patna, India",
-  education: "B.Tech Computer Science and Engineering",
-  currentFocus: ["Full-Stack Development", "Backend Engineering", "Frontend Engineering", "System Design", "AI Integrations"],
-  achievements: ["LeetCode Knight (1868)", "1600+ Problems Solved"],
-  tech: ["Next.js", "React", "TypeScript", "Node.js", "PostgreSQL"],
+  education: "B.Tech Computer Science (CGPA: 8.0/10.0)",
+  currentFocus: ["Full-Stack Development", "Backend Engineering", "Distributed Systems", "AI Integrations"],
+  achievements: ["LeetCode Knight (1868)", "1,600+ Problems Solved"],
+  tech: ["Node.js", "Next.js", "React", "TypeScript", "C++", "PostgreSQL", "MongoDB", "RabbitMQ", "Redis", "Docker"],
   philosophy: "Build real products. Learn by shipping.",
-  openTo: ["Full-Time Opportunities", "Internships", "Open Source Contributions"]
+  openTo: ["Full-Time Software Engineering Roles (Immediate Joiner)"]
 };
 
 ```
@@ -27,10 +26,10 @@ const faizul = {
 ## 🌟 Technical Skills:
 
 **Core Technologies:**
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Zustand
-- **Backend:** Node.js, Express, RESTful APIs, Next.js Server Actions, WebSockets
-- **Database & Caching:** PostgreSQL, MongoDB, Redis, Prisma ORM
-- **DevOps & Cloud:** Docker, Git, CI/CD
+- **Languages:** JavaScript (ES6+), TypeScript, C++, SQL
+- **Frontend:** React.js, Next.js, Tailwind CSS, Zustand, Redux Toolkit
+- **Backend & Data:** Node.js, Express.js, REST APIs, PostgreSQL, MongoDB, Redis, Prisma ORM
+- **DevOps & Architecture:** Microservices, RabbitMQ, Docker, Git, CI/CD, Postman, Vercel
 - **AI Integration:** Google Gemini API, OpenRouter AI
 
 ## 🧩 Problem-Solving Skills:
@@ -48,19 +47,6 @@ My academic journey has provided me with a solid technical foundation, encompass
 - **Database Management Systems (DBMS)**: Gaining insights into data modeling, normalization, and transaction management.
 - **Computer Networks**: Understanding essential network protocols, architectures, and security principles.
 - **Software Engineering**: Learning methodologies for effective software development, rigorous testing, and efficient project management.
-
-## 🌱 Passion for Learning:
-Fueled by an insatiable curiosity, I am always on the lookout for new technologies and frameworks to stay ahead in this fast-evolving industry. My explorations include:
-
-- **C++**: Enhancing my skills through competitive programming and algorithm implementation.
-- **Python**: Utilizing scripting for automation and rapid prototyping.
-- **Docker**: Mastering containerization for seamless application deployment and scalability.
-
-I am dedicated to finding innovative solutions to real-world problems and continuously strive to elevate my skill set through hands-on projects and collaborations.
-
-
-
-
 ---
 
 ## 🛠️ Languages & Frontend
